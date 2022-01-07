@@ -1,0 +1,20 @@
+/**
+* @name orange
+* @version 1.0.0
+* @description Orange theme for discord!
+* @author Alan Cat Gamer
+* @invite eJ8jzybMVs
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Nocturnal
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
+@import url('https://fonts.googleapis.com/css2?family=Consolas');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+:root {
+--mainColor: #FF8C00;
+--backgroundColor01: #131313;
+--backgroundColor02: #181818;
+--gradientColor01: #E66E00FF;
+--gradientColor02: #E600A8FF;
+--customFont: 'Consolas';
+}
