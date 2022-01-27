@@ -1,0 +1,17 @@
+/**
+* @name Orange
+* @version Auto Update
+* @description Minimal Orange theme for discord!
+* @author Alan Cat Gamer
+* @invite https://discord.gg/eJ8jzybMVs
+* @Source https://github.com/alancatgamer/orange
+* @website https://github.com/alancatgamer/orange
+*/
+@import url("https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css");
+@import url('https://fonts.googleapis.com/css2?family=Consolas');
+:root {
+--accent: 255,128,26;
+--message-padding: 10px;
+--message-spacing: 10px;
+--font: 'Consolas';
+}
